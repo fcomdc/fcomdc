@@ -120,14 +120,10 @@ const francisco = {
 ---
 
 ## 📫 Contacto
-
 <div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-fcomdc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcomdc)
-[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
-
+[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fm4694238@gmail.com)
 </div>
-
 ---
 
 <div align="center">
