@@ -22,7 +22,7 @@
 
 ```js
 const francisco = {
-    ubicación: "México 🇲🇽",
+    ubicación: "Nicara",
     rol: "Desarrollador Web & Software",
     aprendiendo: ["React", "C#", "Inteligencia Artificial"],
     proyectoActual: "Astra 🤖 - Una IA que aprende desde cero",
