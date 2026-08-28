@@ -1,138 +1,279 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Francisco%20Medina&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Francisco%20Medina&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=56&descSize=18&descColor=c9d1d9"/>
 
-<!-- TYPING SVG -->
+<br>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hola%2C+soy+Francisco+Medina;%F0%9F%92%BB+Desarrollador+Web+%26+Software;%F0%9F%A4%96+Creador+de+Astra+AI;%F0%9F%9A%80+Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Francisco+Medina;Software+%26+Web+Developer;Full+Stack+Developer;Desarrollo+con+React+%26+Node.js;Aplicaciones+moviles+con+React+Native;Desarrollo+con+C%23+%26+.NET;Siempre+aprendiendo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br><br>
 
-<!-- SOCIAL BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/fcomdc?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff)](https://github.com/fcomdc)
-[![Profile Views](https://komarev.com/ghpvc/?username=fcomdc&style=for-the-badge&color=58a6ff&label=VISITAS+AL+PERFIL)](https://github.com/fcomdc)
+<a href="https://github.com/fcomdc">
+<img src="https://img.shields.io/badge/GitHub-fcomdc-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=fcomdc&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mí
+## 👨‍💻 Sobre mí
 
-```js
+Soy **Francisco Medina**, desarrollador de software de **Nicaragua**, enfocado en crear aplicaciones web, móviles y de escritorio.
+
+Me interesa especialmente el **desarrollo Full Stack**, la creación de aplicaciones funcionales y el desarrollo de soluciones que permitan resolver problemas reales mediante la tecnología.
+
+Actualmente estoy fortaleciendo mis conocimientos en **React, React Native, Node.js, C#, .NET y SQL Server**, mientras desarrollo proyectos personales y académicos para mejorar continuamente mis habilidades.
+
+```javascript
 const francisco = {
-    ubicación: "Nicaragua",
-    rol: "Desarrollador Web & Software",
-    aprendiendo: ["React", "C#", "Inteligencia Artificial"],
-    proyectoActual: "Astra 🤖 - Una IA que aprende desde cero",
-    dato_curioso: "Me apasiona crear cosas que cobren vida con código",
-    meta_2026: "Dominar el Full Stack y contribuir al Open Source"
+    location: "Nicaragua",
+    role: "Software Developer",
+
+    focus: [
+        "Full Stack Development",
+        "Web Development",
+        "Mobile Development",
+        "Software Development"
+    ],
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React"
+    ],
+
+    mobile: [
+        "React Native",
+        "Expo"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express",
+        "C#",
+        ".NET"
+    ],
+
+    database: [
+        "SQL Server",
+        "SQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Visual Studio",
+        "Postman",
+        "npm"
+    ],
+
+    currentlyBuilding: [
+        "Astra 🚀",
+        "Lázaro 🏥"
+    ],
+
+    goal: "Seguir creciendo como desarrollador y crear soluciones de software útiles."
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
 
-- 🔭 Actualmente trabajando en [**Astra**](https://github.com/fcomdc/Astra) — una IA que aprende desde cero
-- 🌱 Aprendiendo **React, C# y desarrollo Full Stack**
-- 💡 Me interesa la **Inteligencia Artificial** y el **desarrollo web moderno**
-- 🎯 Meta: Construir proyectos que generen impacto
-- ⚡ Fun fact: ¡Cada línea de código es un paso más cerca del futuro!
+# 💡 Especialidades
 
-<br clear="right"/>
+* 🌐 Desarrollo Web Full Stack
+* 📱 Desarrollo de aplicaciones móviles con React Native
+* ⚙️ Desarrollo de APIs REST con Node.js y Express
+* 🖥️ Desarrollo de aplicaciones con C# y .NET
+* ⚛️ Desarrollo de interfaces con React
+* 🗄️ Diseño y gestión de bases de datos con SQL Server
+* 🔄 Control de versiones con Git y GitHub
+* 🔌 Integración y consumo de APIs
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Actualmente
+
+### 🚀 Astra
+
+Proyecto personal creado para experimentar, aprender y poner en práctica diferentes conceptos de desarrollo de software.
+
+El proyecto me permite trabajar con diferentes tecnologías y explorar nuevas formas de construir aplicaciones y soluciones digitales.
+
+**Repositorio:**
+👉 https://github.com/fcomdc/Astra
+
+### 🏥 Lázaro
+
+Proyecto académico enfocado en desarrollar una solución tecnológica para **apoyar procesos hospitalarios y mejorar la experiencia del paciente**.
+
+El proyecto combina aplicaciones, servicios y gestión de información para facilitar diferentes procesos dentro del sistema.
+
+---
+
+# 🧠 Áreas de interés
 
 <div align="center">
 
-### 💻 Lenguajes
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+| 💻 Frontend | ⚙️ Backend |   📱 Mobile  |
+| :---------: | :--------: | :----------: |
+|    React    |   Node.js  | React Native |
+|  JavaScript |   Express  |     Expo     |
+|  TypeScript |     C#     |    Android   |
+|  HTML / CSS |    .NET    |  Mobile Apps |
 
-### ⚡ Frameworks & Librerías
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<br>
 
-### 🧰 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+| 🗄️ Bases de Datos | 🏗️ Software | 🔧 Herramientas |
+| :----------------: | :----------: | :-------------: |
+|     SQL Server     |  Full Stack  |       Git       |
+|         SQL        |   APIs REST  |      GitHub     |
+|  Entity Framework  | Arquitectura |     Postman     |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fcomdc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fcomdc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+### 🎨 Frontend
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcomdc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
+
+<br><br>
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio" />
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br><br>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm" />
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fcomdc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fcomdc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcomdc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/fcomdc/Astra">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=Astra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/fcomdc/App-presentacion">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=App-presentacion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=Astra&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/fcomdc/pagina-web">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=pagina-web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/fcomdc/App-presentacion">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=App-presentacion&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/fcomdc/fcomdc">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=fcomdc&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+
+<br>
+
+<a href="https://github.com/fcomdc/pagina-web">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=pagina-web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<a href="https://github.com/fcomdc/Dashboard-de-Ventas">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fcomdc&repo=Dashboard-de-Ventas&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
 
 ---
 
-## 🐍 Contribuciones
+# 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcomdc/fcomdc/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcomdc/fcomdc/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/fcomdc/fcomdc/output/github-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fcomdc/fcomdc/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 📫 Contacto
+# 🎯 2026 Goals
+
+* [x] Mejorar mis conocimientos en desarrollo Full Stack
+* [x] Trabajar con React y .NET
+* [x] Explorar desarrollo con Node.js
+* [x] Trabajar con React Native
+* [ ] Profundizar en C# y .NET
+* [ ] Mejorar mis conocimientos de SQL Server
+* [ ] Mejorar arquitectura y diseño de software
+* [ ] Crear proyectos más completos y escalables
+* [ ] Mejorar mis conocimientos de desarrollo móvil
+* [ ] Contribuir a proyectos Open Source
+* [ ] Seguir desarrollando Astra
+* [ ] Completar y mejorar Lázaro
+
+---
+
+# 📫 Contacto
+
 <div align="center">
-[[GitHub](https://img.shields.io/badge/GitHub-fcomdc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fcomdc)
-[[Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fm4694238@gmail.com)
+
+<a href="https://github.com/fcomdc">
+<img src="https://img.shields.io/badge/GitHub-fcomdc-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:fm4694238@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
+
 ---
 
 <div align="center">
 
-### 💭 Frase del día
+### 💭
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=El%20c%C3%B3digo%20es%20poes%C3%ADa%20escrita%20en%20l%C3%B3gica.&author=Francisco%20Medina)](https://github.com/fcomdc)
+> *"El código es poesía escrita en lógica."*
 
-<br/>
+**— Francisco Medina**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer"/>
 
