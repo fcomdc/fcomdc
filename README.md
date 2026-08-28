@@ -85,29 +85,7 @@ const francisco = {
 
 ---
 
-# 💡 Especialidades
 
-* 🌐 Desarrollo Web Full Stack
-* 📱 Desarrollo de aplicaciones móviles con React Native
-* ⚙️ Desarrollo de APIs REST con Node.js y Express
-* 🖥️ Desarrollo de aplicaciones con C# y .NET
-* ⚛️ Desarrollo de interfaces con React
-* 🗄️ Diseño y gestión de bases de datos con SQL Server
-* 🔄 Control de versiones con Git y GitHub
-* 🔌 Integración y consumo de APIs
-
----
-
-# 🚀 Actualmente
-
-### 🚀 Astra
-
-Proyecto personal creado para experimentar, aprender y poner en práctica diferentes conceptos de desarrollo de software.
-
-El proyecto me permite trabajar con diferentes tecnologías y explorar nuevas formas de construir aplicaciones y soluciones digitales.
-
-**Repositorio:**
-👉 https://github.com/fcomdc/Astra
 
 ### 🏥 Lázaro
 
